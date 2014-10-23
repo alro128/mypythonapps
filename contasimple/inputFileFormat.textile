@@ -1,0 +1,20 @@
+-------------------------------------------------------------
+h1. contaSimple
+-------------------------------------------------------------
+
+h2. Registro de libro diario
+
+
+asiento;tipo;cuenta;debe;haber;descripcion
+
+* asiento: Numero de asiento contable
+* tipo: Tipo de cuenta (activofijo,activocirculante,pasivoexigible,patrimonioneto,ingreso,gasto)
+* cuenta: Nombre de cuenta T
+* debe: unidad monetaria de debe
+* haber: unidad monetaria de haber
+* descripcion: descripcion del asiento
+
+h2. Estructura de ficheros
+
+
+

@@ -1,0 +1,56 @@
+0;ac;Cajas y bancos;150000;;desc
+0;ac;Gastos anticipados;15000;;desc
+0;af;Mobiliario;7500;;desc
+0;af;Ordenadores;8500;;desc
+0;af;Gastos de constitucion;5000;;desc
+0;af;Gastos de primer establecimiento;3000;;desc
+0;pe;Acreedores no comerciales;;14000;desc
+0;pe;Prestamos;;75000;desc
+0;pn;Capital social;;100000;desc
+1;pe;Acreedores no comerciales;14000;;desc
+1;ac;Cajas y bancos;;14000;desc
+2;ac;Existencias;75000;;desc
+2;ac;Cajas y bancos;;37500;desc
+2;pe;Proveedores;;37500;desc
+2;ac;Cajas y bancos;;9000;desc
+2;ac;Existencias;9000;;desc
+3;ie;Ventas;;120000;desc
+3;ac;Clientes;120000;;desc
+3;ac;Existencias;;67200;desc
+3;ge;Coste mercancia vendida;67200;;desc
+4;ie;Ventas;;15000;desc
+4;ac;Cajas y bancos;15000;;desc
+4;ac;Existencias;;8400;desc
+4;ge;Coste mercancia vendida;8400;;desc
+5;ac;Existencias;150000;;desc
+5;ac;Cajas y bancos;;60000;desc
+5;pe;Proveedores;;90000;desc
+5;ac;Cajas y bancos;;18000;desc
+5;ac;Existencias;18000;;desc
+6;ie;Ventas;;225000;desc
+6;ac;Cajas y bancos;135000;;desc
+6;ac;Clientes;90000;;desc
+6;ac;Existencias;;126000;desc
+6;ge;Coste mercancia vendida;126000;;desc
+7;ac;Clientes;;120000;desc
+7;ac;Cajas y bancos;120000;;desc
+8;ac;Clientes;;45000;desc
+8;ac;Cajas y bancos;45000;;desc
+9;pe;Prestamos;37500;;desc
+9;ac;Cajas y bancos;;37500;desc
+9;gf;Gastos financieros;3000;;desc
+9;ac;Cajas y bancos;;3000;desc
+10;pe;Proveedores;37500;;desc
+10;ac;Cajas y bancos;;37500;desc
+10;pe;Proveedores;45000;;desc
+10;ac;Cajas y bancos;;45000;desc
+11;ge;Sueldos y salarios;30000;;desc
+11;ac;Cajas y bancos;;30000;desc
+12;ac;Gastos anticipados;15000;;desc
+12;ac;Cajas y bancos;;15000;desc
+12;ac;Gastos anticipados;;15000;desc
+12;ge;Gastos de alquiler;15000;;desc
+13a;ge;Gastos de amortizacion de mobiliario;750;;desc
+13a;af;Amortizacion acumulada  de mobiliario;;750;desc
+13b;ge;Gastos de amortizacion de ordenadores;1000;;desc
+13b;af;Amortizacion acumulada de ordenadores;;1000;desc
