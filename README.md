@@ -8,3 +8,4 @@ Various python scripts for :
 * get TV series (season(s) and episode(s)) subtitles from podnapisi website
 * create an HTML Accounting document from a csv account book
 * web service client using sud
+* ..and more
